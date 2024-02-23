@@ -6,7 +6,7 @@ This API will be responsible for managing the creation of a new user in the syst
 
 ## Illustrations
 
-![User API basic flowchart.](https://imgur.com/a/j9BgUcS)
+![User API basic flowchart.][Imgur](https://i.imgur.com/ejGTRVn.png)
 
 ## Use cases
 
