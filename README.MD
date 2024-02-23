@@ -6,7 +6,7 @@ This API will be responsible for managing the creation of a new user in the syst
 
 ## Illustrations
 
-![User API basic flowchart.](https://github.com/Peduxx/user-api.git/docs/images/login_flow.png)
+![User API basic flowchart.](https://i.imgur.com/ejGTRVn.png)
 
 ## Use cases
 
