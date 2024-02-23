@@ -1,10 +1,10 @@
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Application\bin\Debug\net7.0\Application.deps.json
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Application\bin\Debug\net7.0\Application.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Application\bin\Debug\net7.0\Application.pdb
-C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Application\bin\Debug\net7.0\Codar.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Application\bin\Debug\net7.0\Shared.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Application\bin\Debug\net7.0\Domain.pdb
-C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Application\bin\Debug\net7.0\Codar.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Application\bin\Debug\net7.0\Shared.pdb
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache

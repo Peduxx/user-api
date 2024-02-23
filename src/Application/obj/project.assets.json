@@ -61,16 +61,6 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Codar/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/Codar.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Codar.dll": {}
-        }
-      },
       "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -79,6 +69,16 @@
         },
         "runtime": {
           "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shared.dll": {}
         }
       }
     }
@@ -171,23 +171,23 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Codar/1.0.0": {
-      "type": "project",
-      "path": "../../../submodule/Codar.csproj",
-      "msbuildProject": "../../../submodule/Codar.csproj"
-    },
     "Domain/1.0.0": {
       "type": "project",
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "Shared/1.0.0": {
+      "type": "project",
+      "path": "../Shared/Shared.csproj",
+      "msbuildProject": "../Shared/Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Codar >= 1.0.0",
       "Domain >= 1.0.0",
       "FluentValidation >= 11.9.0",
-      "MediatR >= 12.2.0"
+      "MediatR >= 12.2.0",
+      "Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -223,11 +223,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Projects\\.NET\\Codar\\submodule\\Codar.csproj": {
-              "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Projects\\.NET\\Codar\\submodule\\Codar.csproj"
-            },
             "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Projects\\.NET\\Codar\\user-api\\src\\Domain\\Domain.csproj": {
               "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Projects\\.NET\\Codar\\user-api\\src\\Domain\\Domain.csproj"
+            },
+            "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Projects\\.NET\\Codar\\user-api\\src\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Projects\\.NET\\Codar\\user-api\\src\\Shared\\Shared.csproj"
             }
           }
         }

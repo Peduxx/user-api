@@ -3,11 +3,11 @@ C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Persi
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Persistence\bin\Debug\net7.0\Persistence.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Persistence\bin\Debug\net7.0\Persistence.pdb
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Persistence\bin\Debug\net7.0\Application.dll
-C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Persistence\bin\Debug\net7.0\Codar.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Persistence\bin\Debug\net7.0\Shared.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Persistence\bin\Debug\net7.0\Application.pdb
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Persistence\bin\Debug\net7.0\Domain.pdb
-C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Persistence\bin\Debug\net7.0\Codar.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Persistence\bin\Debug\net7.0\Shared.pdb
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache

@@ -97,11 +97,11 @@ C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\Application.dll
-C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\Codar.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\Domain.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\Shared.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\Application.pdb
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\Domain.pdb
-C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\Codar.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\Shared.pdb
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\obj\Debug\net7.0\Tests.csproj.AssemblyReference.cache
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\obj\Debug\net7.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\obj\Debug\net7.0\Tests.AssemblyInfoInputs.cache

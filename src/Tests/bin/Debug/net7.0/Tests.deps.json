@@ -1105,23 +1105,23 @@
       "xunit.runner.visualstudio/2.4.5": {},
       "Application/1.0.0": {
         "dependencies": {
-          "Codar": "1.0.0",
           "Domain": "1.0.0",
           "FluentValidation": "11.9.0",
-          "MediatR": "12.2.0"
+          "MediatR": "12.2.0",
+          "Shared": "1.0.0"
         },
         "runtime": {
           "Application.dll": {}
         }
       },
-      "Codar/1.0.0": {
-        "runtime": {
-          "Codar.dll": {}
-        }
-      },
       "Domain/1.0.0": {
         "runtime": {
           "Domain.dll": {}
+        }
+      },
+      "Shared/1.0.0": {
+        "runtime": {
+          "Shared.dll": {}
         }
       }
     }
@@ -1809,12 +1809,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Codar/1.0.0": {
+    "Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Domain/1.0.0": {
+    "Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

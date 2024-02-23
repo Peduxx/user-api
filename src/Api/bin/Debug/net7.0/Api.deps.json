@@ -13,6 +13,7 @@
           "Microsoft.AspNetCore.OpenApi": "7.0.9",
           "Microsoft.EntityFrameworkCore.Design": "7.0.15",
           "Persistence": "1.0.0",
+          "Shared": "1.0.0",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
         "runtime": {
@@ -658,18 +659,13 @@
       },
       "Application/1.0.0": {
         "dependencies": {
-          "Codar": "1.0.0",
           "Domain": "1.0.0",
           "FluentValidation": "11.9.0",
-          "MediatR": "12.2.0"
+          "MediatR": "12.2.0",
+          "Shared": "1.0.0"
         },
         "runtime": {
           "Application.dll": {}
-        }
-      },
-      "Codar/1.0.0": {
-        "runtime": {
-          "Codar.dll": {}
         }
       },
       "Domain/1.0.0": {
@@ -680,7 +676,6 @@
       "Infrastructure/1.0.0": {
         "dependencies": {
           "Application": "1.0.0",
-          "Codar": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.15",
           "Persistence": "1.0.0"
         },
@@ -696,6 +691,11 @@
         },
         "runtime": {
           "Persistence.dll": {}
+        }
+      },
+      "Shared/1.0.0": {
+        "runtime": {
+          "Shared.dll": {}
         }
       }
     }
@@ -1201,11 +1201,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Codar/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -1217,6 +1212,11 @@
       "sha512": ""
     },
     "Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

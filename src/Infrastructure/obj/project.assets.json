@@ -1028,26 +1028,16 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Codar": "1.0.0",
           "Domain": "1.0.0",
           "FluentValidation": "11.9.0",
-          "MediatR": "12.2.0"
+          "MediatR": "12.2.0",
+          "Shared": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Application.dll": {}
         },
         "runtime": {
           "bin/placeholder/Application.dll": {}
-        }
-      },
-      "Codar/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/Codar.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Codar.dll": {}
         }
       },
       "Domain/1.0.0": {
@@ -1073,6 +1063,16 @@
         },
         "runtime": {
           "bin/placeholder/Persistence.dll": {}
+        }
+      },
+      "Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shared.dll": {}
         }
       }
     }
@@ -2816,11 +2816,6 @@
       "path": "../Application/Application.csproj",
       "msbuildProject": "../Application/Application.csproj"
     },
-    "Codar/1.0.0": {
-      "type": "project",
-      "path": "../../../submodule/Codar.csproj",
-      "msbuildProject": "../../../submodule/Codar.csproj"
-    },
     "Domain/1.0.0": {
       "type": "project",
       "path": "../Domain/Domain.csproj",
@@ -2830,12 +2825,16 @@
       "type": "project",
       "path": "../Persistence/Persistence.csproj",
       "msbuildProject": "../Persistence/Persistence.csproj"
+    },
+    "Shared/1.0.0": {
+      "type": "project",
+      "path": "../Shared/Shared.csproj",
+      "msbuildProject": "../Shared/Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Application >= 1.0.0",
-      "Codar >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 7.0.15",
       "Persistence >= 1.0.0"
     ]
@@ -2873,9 +2872,6 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Projects\\.NET\\Codar\\submodule\\Codar.csproj": {
-              "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Projects\\.NET\\Codar\\submodule\\Codar.csproj"
-            },
             "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Projects\\.NET\\Codar\\user-api\\src\\Application\\Application.csproj": {
               "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Projects\\.NET\\Codar\\user-api\\src\\Application\\Application.csproj"
             },
