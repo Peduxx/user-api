@@ -19,6 +19,9 @@ jobs:
       with:
         dotnet-version: 7.x
 
+    - name: Clear NuGet package cache
+      run: dotnet nuget locals all --clear
+
     - name: Restore Dependencies
       run: dotnet restore
 
