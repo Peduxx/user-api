@@ -22,8 +22,8 @@ jobs:
     - name: Clear NuGet package cache
       run: dotnet nuget locals all --clear
 
-    #- name: Restore Dependencies
-    #  run: dotnet restore
+    - name: Restore Dependencies
+      run: dotnet restore
 
     - name: Test
       run: dotnet test --configuration Release --no-build

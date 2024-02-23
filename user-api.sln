@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "src\Tests\Tests.cs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "src\Persistence\Persistence.csproj", "{DE87C040-8559-4B54-AADC-312FCC6B5A24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codar", "Codar\Codar.csproj", "{3C3AAFF0-2145-4465-BF5B-F9603A34F6F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codar", "Codar\Codar.csproj", "{FBCE8426-DA45-4F90-A852-C21C5CED81F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,10 +49,10 @@ Global
 		{DE87C040-8559-4B54-AADC-312FCC6B5A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE87C040-8559-4B54-AADC-312FCC6B5A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE87C040-8559-4B54-AADC-312FCC6B5A24}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3C3AAFF0-2145-4465-BF5B-F9603A34F6F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3C3AAFF0-2145-4465-BF5B-F9603A34F6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3C3AAFF0-2145-4465-BF5B-F9603A34F6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3C3AAFF0-2145-4465-BF5B-F9603A34F6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBCE8426-DA45-4F90-A852-C21C5CED81F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCE8426-DA45-4F90-A852-C21C5CED81F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCE8426-DA45-4F90-A852-C21C5CED81F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCE8426-DA45-4F90-A852-C21C5CED81F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
