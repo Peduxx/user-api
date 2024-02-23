@@ -1230,12 +1230,6 @@
       "Codar/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.15",
-          "Microsoft.EntityFrameworkCore": "7.0.15",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.15",
-          "Swashbuckle.AspNetCore": "6.4.0"
-        },
         "compile": {
           "bin/placeholder/Codar.dll": {}
         },
