@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "src\Tests\Tests.cs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "src\Persistence\Persistence.csproj", "{DE87C040-8559-4B54-AADC-312FCC6B5A24}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codar", "Codar.csproj", "{85B1D1C6-EC95-42BA-8E0D-02D1B56B9EC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codar", "Codar/Codar.csproj", "{85B1D1C6-EC95-42BA-8E0D-02D1B56B9EC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
