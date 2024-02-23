@@ -24,6 +24,7 @@ C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\Moq.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\xunit.abstractions.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\xunit.assert.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\xunit.core.dll
@@ -93,6 +94,8 @@ C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\Application.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\Codar.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\Domain.dll
@@ -110,6 +113,3 @@ C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\obj\Debug\net7.0\Tests.pdb
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\obj\Debug\net7.0\Tests.genruntimeconfig.cache
 C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\obj\Debug\net7.0\ref\Tests.dll
-C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
-C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
-C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\user-api\src\Tests\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
